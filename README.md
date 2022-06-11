@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to my GitHub profile! #
 
-<!--
-**vasilangelov/vasilangelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me ##
+  - I enjoy coding and solving problems.
+  - Currently a student in the Veliko Tarnovo university.
 
-Here are some ideas to get you started:
+## More info ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack ###
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+</p>
+
+### Additional Info ###
+![Vasil Angelov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasilangelov&show_icons=true&theme=github_dark&count_private=true)
